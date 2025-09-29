@@ -39,7 +39,7 @@ export default function About() {
 
           <div className="animate-content-slide-left">
             <img
-              src="https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1926&q=80"
+              src="/images/accounting.jpg"
               alt="Modern office space"
               className="rounded-lg shadow-lg hover:shadow-2xl transition-all duration-700 hover:scale-105 hover:rotate-1 animate-image-reveal"
             />
