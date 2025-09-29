@@ -18,9 +18,9 @@ export default function Index() {
     <div className="max-w-7xl mx-auto">
       <div className="max-w-3xl text-left">
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight animate-hero-slide-up">
-          Trusted accounting 
+          Trusted Accounting 
           <br />
-          <span className="text-accent animate-hero-glow">partner</span>
+          <span className="text-accent animate-hero-glow">Partner</span>
         </h1>
         <p className="text-xl md:text-2xl text-gray-200 mb-8 leading-relaxed animate-hero-fade-in-delayed">
           Empowering your business with trusted accounting solutions that save you time and money.
